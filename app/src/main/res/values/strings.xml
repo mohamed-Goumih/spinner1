@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">spinner1</string>
+    <string name="ajouter_un_fruit">Ajouter un fruit</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="delete_confirmation_title">Confirmation de suppression</string>
+    <string name="delete_confirmation_message">Voulez-vous vraiment supprimer \"%s\" ?</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="fruit_deleted">%s supprimé</string>
 
     <string-array name="country_array">
         <item>Maroc</item>
